@@ -7,3 +7,4 @@ Dies hier ist mein **erstes Projekt**, um *GitHub* auszuprobieren.
 
 ### und mehr
 
+fixes #2
